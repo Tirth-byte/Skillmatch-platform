@@ -99,6 +99,8 @@ Built and refined during the hackathon with a focus on scalability, usability, a
 
 ---
 
+## TESTING
+
 ## 🛡 Performance & Scalability
 - **Edge-Ready**: Designed for serverless deployment on Vercel.
 - **Optimized Assets**: Uses `next/font` and pure CSS gradients.
